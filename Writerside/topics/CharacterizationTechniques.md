@@ -1,4 +1,4 @@
-# Characterization Techniques
+# CharacterizationTechniques
 
 ## XRD
 

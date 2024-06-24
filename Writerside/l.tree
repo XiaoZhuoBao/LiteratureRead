@@ -9,6 +9,6 @@
     <toc-element topic="Catalog.md"/>
     <toc-element topic="Reference.md"/>
     <toc-element topic="C1.md"/>
-    <toc-element topic="Mesoscopic Catalysts.md"/>
-    <toc-element topic="Characterization Techniques.md"/>
+    <toc-element topic="MesoscopicCatalysts.md"/>
+    <toc-element topic="CharacterizationTechniques.md"/>
 </instance-profile>
