@@ -4,6 +4,9 @@ setlocal
 rem 获取当前目录
 set "currentDir=%cd%"
 
+rmdir /s /q "%currentDir%\docs"
+
+
 rem 设置压缩文件和解压目标目录
 set "zipFile=%currentDir%\webHelpL2-all.zip"
 set "destinationFolder=%currentDir%/docs"
