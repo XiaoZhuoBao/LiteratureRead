@@ -6,4 +6,6 @@
 
 ## [Mesoscopic Catalysts](MesoscopicCatalysts.md)
 
+## [Literature Organization](LiteratureOrganization.md)
+
 ## [Characterization Techniques](CharacterizationTechniques.md)
