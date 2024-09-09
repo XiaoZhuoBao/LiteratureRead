@@ -9,7 +9,9 @@
     <toc-element topic="Catalog.md"/>
     <toc-element topic="Reference.md"/>
     <toc-element topic="C1.md"/>
+    <toc-element topic="CO2Hydrogenation.md"/>
     <toc-element topic="MesoscopicCatalysts.md"/>
-    <toc-element topic="LiteratureOrganization.md"/>
+    <toc-element topic="Literature-AnalysisInstrumentCollation.md"/>
     <toc-element topic="CharacterizationTechniques.md"/>
+
 </instance-profile>
